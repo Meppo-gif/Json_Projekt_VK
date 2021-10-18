@@ -1,0 +1,17 @@
+{
+	"diagnosis": {
+	       "Term": "Drohender Abort",
+	       "code": "O20.0",
+	       "code-system": "O05A"},
+	"age-rage": {"min":40,
+	       "max": 50},
+	 "sex":"female",
+	 "symptoms":{
+		"mandantory": [ "krampfartiger Unterbauchschmerzen", "Blutung", "Schmerzen im uunteren Rücken" ],
+	       "optional":[" Erscheinung einem Blutgerinnsel"]},
+	 "diagnostic-procedures":{
+	        "laboratory-tests":["klinische Untersuchung"],
+	         "radiology":["Ein bedrohter Ultraschallabbruch"]},
+	 "therapeutic-procedures":["Cerclage nach McDonald"],
+	 "complications":["Infektion", "Blutungen", "Beschädigungen der Fruchtblase","Die Gefahr, dass die Cerclage sich vorzeitig löst"] 
+}
